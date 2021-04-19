@@ -2,7 +2,9 @@
 ##**Overview of the analysis**
 In this project, we are using SQL queries to create tables and analyse datasets of Pewlett Hackard company. Pewlett Hackard is a huge company where several thousands of employees are working. The company is planning to provide a retirement package for their employees who are approaching their retirement age. On the other hand, the positions of the retired employees require to be filled out. We are assisting Bobby, the HR analysis to create a list of the number and information of the employees who are getting retired.
 We, first, created a diagram where shows the relationship between our datasets. Then, using the diagram (shown below), we created a table for each dataset. Afterwards, using SQL queries, we selected and filtered the data to analyse the information regarding the number of retiring employees, their personal information as well as their current titles.
+
 ![EmployeeDB.png](https://github.com/zkt2018/Pewlett-Hackard-Analysis/blob/main/Data/EmployeeDB.png)
+
 ##**Results**
 In the two deliverables, we created two lists, one to show the number of retirement-age employees and their latest position before retirement, and the other one to get the list of eligible employees for the mentorship program.
 Through the first deliverable we create a table to display the latest position each of these employees have.
@@ -12,6 +14,7 @@ The final table in deliverable 2 displays the employees who are eligible to be t
 ##**Summary**
 ###**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 Based on the analysis results, there will be many vacancies within seven job titles that require to be filled. The image below shows the number of required positions in each job title.
+
 ![opening_roles.png](https://github.com/zkt2018/Pewlett-Hackard-Analysis/blob/main/Data/opening_roles.png)
 
 ###**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
